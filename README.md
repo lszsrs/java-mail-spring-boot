@@ -1,2 +1,2 @@
 # java-mail-spring-boot
-Teste para o projeto da InfinitusBooks
+Test of the InfinitusBooks project to send emails using Spring Boot and Gmail
